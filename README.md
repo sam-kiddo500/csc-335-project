@@ -1,2 +1,1 @@
-# csc-335-project
-csc 335 project description
+# UI-UX-Designer-portfolio-website
